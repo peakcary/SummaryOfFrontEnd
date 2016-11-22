@@ -1,6 +1,4 @@
-
 ## Animaiton
-
 ```
 animation-name: rainbow;
 animation-duration: 1s;
